@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://i2.wp.com/kwttoday.com/wp-content/uploads/2017/03/PATIENT-ROOM-2-scaled.jpg?fit=2560%2C1695&ssl=1);
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
+h2{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+
+header{
+    color: lightsteelblue;
+}
+p{
+    color: lightsteelblue;
+}
+.toty{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:steelblue;
+padding: 20px;
+width: 200px;
+height: 150px;}
+
+
+.totty{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:steelblue;
+padding: 20px;
+width: 200px;
+height: 150px;}

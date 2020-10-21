@@ -1,0 +1,40 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvu0cfHe5pQl2MH5tsBDUWG3CzkStpYYX99w&usqp=CAU);
+}
+h1{
+    color: mintcream;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+h2{
+    color: mintcream;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.loly{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:rgb(56, 153, 56);
+padding: 20px;
+width: 200px;
+height: 150px;}
+header{
+    color: darkolivegreen;
+}
+p{
+    color: darkolivegreen;
+}
+.lolly{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:rgb(56, 153, 56);
+padding: 20px;
+width: 200px;
+height: 150px;
+}
