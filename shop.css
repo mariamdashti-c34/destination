@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://previews.123rf.com/images/canyalcin/canyalcin1701/canyalcin170100143/71004108-istanbul-turkey-turkey-july-16-2015-istinye-park-shopping-mall-on-november-4-2010-in-istanbul-turkey.jpg);
+}
+
+
+h1{
+    color: mintcream;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
+h2{
+    color: mintcream;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+}
+.yoty{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:lightskyblue;
+padding: 20px;
+width: 200px;
+height: 150px;}
+
+.yotty{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:lightskyblue;
+padding: 20px;
+width: 200px;
+height: 150px;}
+
+header{
+    color: mintcream;
+}
+p{
+    color: mintcream;
+}

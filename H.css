@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://media.pixcove.com/R/3/9/Sheraton-Palace-Hotel-Buildings-Architecture-Archi-9221.jpg)
+}
+
+h1{
+    color: mintcream;
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
+h2{
+    color: mintcream;
+    text-align: center;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+
+.hoty{
+    border-radius: 25px;
+        border-collapse: separate;
+        border-spacing: 15px 50px;
+background:maroon;
+padding: 20px;
+width: 200px;
+height: 150px;}
+
+header{
+    color: mintcream;
+}
+
+p{ 
+    color: mintcream;
+}
+.hotty{border-radius: 25px;
+    border-collapse: separate;
+    border-spacing: 15px 50px;
+background:maroon;
+padding: 20px;
+width: 200px;
+height: 150px;}
+
+header{
+    color: mintcream;
+}
+p{
+    color: mintcream;
+}
